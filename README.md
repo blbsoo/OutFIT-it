@@ -25,6 +25,3 @@ Research and select appropriate software and hardware technologies.
 Gather functional and non-functional requirements using Karl Weiger’s relative weighting model.
 Adhere to the 10 Usability Heuristics for User Interface Design in app development.
 Implement firebase for image storage, authentication, and user account management.
-Technological Scope:
-
-Given the current knowledge limitations in AI and Swift programming, the project prioritizes simplicity and user-friendly design, focusing on achievable goals within these constraints.
